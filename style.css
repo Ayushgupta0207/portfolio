@@ -55,7 +55,7 @@ header ul li a:hover {
   padding-left: 100px;
 }
 .banner {
-  background: url(/bg-img.jpg);
+  background: url(./bg-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -98,7 +98,7 @@ header ul li a:hover {
   margin-right: 30px;
 }
 .left {
-  background: url(/image.jpg);
+  background: url(./image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -155,7 +155,7 @@ button {
   height: 300px;
 }
 .skill-right {
-  background: url(/p2.jpeg);
+  background: url(./p2.jpeg);
 }
 .skill-image {
   margin-top: 30px;
