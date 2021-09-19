@@ -55,7 +55,7 @@ header ul li a:hover {
   padding-left: 100px;
 }
 .banner {
-  background: url(./downloads/bg-img.jpg);
+  background: url(/bg-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
