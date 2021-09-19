@@ -155,7 +155,7 @@ button {
   height: 300px;
 }
 .skill-right {
-  background: url(./downloads/p2.jpeg);
+  background: url(/downloads/p2.jpeg);
 }
 .skill-image {
   margin-top: 30px;
